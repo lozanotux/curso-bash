@@ -10,4 +10,5 @@ echo "Opcion: $opcion y Nombre: $nombre"
 export nombre
 
 # Llamar al siguiente script para recuperar la variable
+# Tambien puede llamarse cambiando los permisos de ejecucion (+x) y con ./
 sh 2.2_imprimirExportVariable.sh
